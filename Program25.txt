@@ -1,0 +1,6 @@
+# Name: Numaan Qureshi
+# Email: numaan.qureshi58@myhunter.cuny.edu
+# Date: October 12, 2021
+# Program #25: Computes the majority of two inputs.
+
+out = ((not(in1 and in2) and (in1 or in2))) or (in1 and in2)

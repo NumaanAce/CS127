@@ -1,0 +1,7 @@
+#!/bin/bash
+#Name: Numaan Qureshi
+#Email: numaan.qureshi58@myhunter.cuny.edu
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shell scripts!"
+chmod +x Program29
+./Program29

@@ -1,0 +1,24 @@
+# Name: Numaan Qureshi
+# Email: numaan.qureshi58@myhunter.cuny.edu
+# Date: 22 November 2021
+
+mkdir csci127
+cd csci127
+mkdir images
+mkdir files
+cd images
+mkdir png
+mkdir jpg
+mkdir gif
+cd -
+cd files
+mkdir csv
+mkdir txt
+ls files
+
+# CODE END
+
+"Note what each command does:   mkdir - Creates a directory/subdirectory (MaKe DIRectory)
+                                cd - Goes to directory. Specify name to go to certain one, or use - to back one.
+                                ls - Lists directories, or files in certain directories.
+"
