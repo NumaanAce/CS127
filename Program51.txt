@@ -1,0 +1,10 @@
+# Name: Numaan Qureshi
+# Email: numaan.qureshi58@myhunter.cuny.edu
+# Date: 24 November 2021
+
+ADDI $s0, $zero, 100 #set s0 to 10
+ADDI $s1, $zero, 25  #use to decrement counter, $s0
+AGAIN: SUB $s0, $s0, $s1
+BEQ $s0, $zero, DONE
+J AGAIN
+DONE:  #To break out of the loop

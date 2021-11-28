@@ -1,0 +1,10 @@
+# Name: Numaan Qureshi
+# Email: numaan.qureshi58@myhunter.cuny.edu
+# Date: 24 November 2021
+
+git clone https://github.com/HunterCSci127/CSci127
+cd CSci127
+mkdir myprojectfiles
+mv nestingPolygons.py myprojectfiles/
+mkdir pictures
+ls -l | grep ".png" | mv *.png pictures/
